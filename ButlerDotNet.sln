@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButlerDotNet", "ButlerDotNet\ButlerDotNet.csproj", "{19C4A6F8-93CC-490A-889D-26A35327B93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButlerDotNet.Sandbox", "ButlerDotNet.Sandbox\ButlerDotNet.Sandbox.csproj", "{97A8C03F-690A-431D-BBB5-E177685BBEB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C4A6F8-93CC-490A-889D-26A35327B93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C4A6F8-93CC-490A-889D-26A35327B93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C4A6F8-93CC-490A-889D-26A35327B93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C4A6F8-93CC-490A-889D-26A35327B93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A8C03F-690A-431D-BBB5-E177685BBEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A8C03F-690A-431D-BBB5-E177685BBEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A8C03F-690A-431D-BBB5-E177685BBEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A8C03F-690A-431D-BBB5-E177685BBEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
